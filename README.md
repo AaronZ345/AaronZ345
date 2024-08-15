@@ -13,6 +13,7 @@ My research interest includes **Singing voice Synthesis and Music Generation**. 
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
+- Linkedin: https://www.linkedin.com/in/%E5%BD%A7-%E5%BC%A0-b5a7a1322/
 - Google Scholar: https://scholar.google.com/citations?user=kA9A6LsAAAAJ
 - DBLP: https://dblp.org/pid/50/671-126.html
 
