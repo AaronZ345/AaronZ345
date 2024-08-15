@@ -9,6 +9,7 @@ My research interest includes **Singing voice Synthesis and Music Generation**. 
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn**
 
 ### 📎 Homepages
+- Personal Pages: https://aaronz345.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=kA9A6LsAAAAJ
 - DBLP: https://dblp.org/pid/50/671-126.html
 
@@ -20,6 +21,8 @@ My research interest includes **Singing voice Synthesis and Music Generation**. 
 - ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://arxiv.org/abs/2405.09940), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
 - ``NIPS 2024`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://github.com/GTSinger/GTSinger), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&&count_private=true&show_icons=true&theme=transparent&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronZ345&theme=transparent&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
