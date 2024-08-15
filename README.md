@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-I am a PhD student majoring in Artificial Intelligence at [Zhejiang University](https://www.zju.edu.cn/english/). 
+I am a PhD student majoring in Computer Science at [Zhejiang University](https://www.zju.edu.cn/english/). 
 
 I am now working on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). 
+
+I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with two bachelor's degree of Computer Science and Automation.
 
 My research interest includes **Singing voice Synthesis and Music Generation**. Now I focus on the Controllable Music Large Language Model. 
 
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn**
+
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
