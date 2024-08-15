@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 📎 Homepages
+- Google Scholar: https://scholar.google.com/citations?user=kA9A6LsAAAAJ
+- DBLP: https://dblp.org/pid/50/671-126.html
+
 ### 💻 Research Papers and Projects
 
 #### 🎙 Singing Voice Synthesis
