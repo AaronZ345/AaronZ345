@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD student majoring in [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). 
+I am a PhD student in [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/). 
 
 I am now working on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). 
 
