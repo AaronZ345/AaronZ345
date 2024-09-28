@@ -7,7 +7,7 @@ I am now working on the Audio Research Team at Zhejiang University, under the su
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation.  
 I also worked as a visiting scholar at [University of Massachusetts Amherst](https://www.umass.edu/), collaborating with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests include **Singing Voice Synthesis, Music Generation, and Natural Language Processing**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, ACL, and EMNLP.
+My research interests include **Singing Voice Synthesis, Music Generation, and Natural Language Processing**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, and EMNLP.
 
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
