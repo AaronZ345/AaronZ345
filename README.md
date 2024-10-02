@@ -12,6 +12,7 @@ My research interests include **Singing Voice Synthesis, Music Generation, and N
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
 ### 🔥 News
+- *2024.09*: We released the full dataset of [GTSinger](https://huggingface.co/datasets/GTSinger/GTSinger) (A Global Multi-Technique Singing Corpus for all singing tasks)!
 - *2024.09*: 🎉 1 paper is accepted by NeurIPS 2024 (Spotlight)!
 - *2024.09*: 🎉 1 paper is accepted by EMNLP 2024!
 - *2024.06*: We released the code of [GTSinger](https://github.com/GTSinger/GTSinger) (A Global Multi-Technique Singing Corpus for all singing tasks)!
