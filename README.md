@@ -12,6 +12,7 @@ My research interests include **Singing Voice Synthesis, Music Generation, Audio
 **I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
 ### 🔥 News
+- *2024.11*: We released the code of [TCSinger](https://github.com/AaronZ345/TCSinger) (Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control)!
 - *2024.09*: We released the full dataset of [GTSinger](https://huggingface.co/datasets/GTSinger/GTSinger) (A Global Multi-Technique Singing Corpus for all singing tasks)!
 - *2024.09*: 🎉 1 paper is accepted by NeurIPS 2024 (Spotlight)!
 - *2024.09*: 🎉 1 paper is accepted by EMNLP 2024!
