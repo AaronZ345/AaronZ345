@@ -32,10 +32,10 @@ My research interests include **Singing Voice Synthesis, Music Generation, Audio
 #### 🎙 Singing Voice Synthesis
 
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://neurips.cc/virtual/2024/poster/97428), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
-- ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/29932), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``EMNLP 2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://aclanthology.org/2024.emnlp-main.117/), **Yu Zhang**, Ziyue Jiang, Ruiqi Li, et al.
-- ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://aclanthology.org/2024.acl-long.526/), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
+- ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/29932), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``AAAI 2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, **Yu Zhang**, Changhao Pan, et al.
+- ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://aclanthology.org/2024.acl-long.526/), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
 
 ---
 
