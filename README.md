@@ -9,7 +9,7 @@ I also worked as a visiting scholar at [University of Massachusetts Amherst](htt
 
 My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Singing and Music Synthesis, and Spatial Audio Generation**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, and EMNLP.
 
-**I am actively seeking postdoctoral positions and research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
+**I am actively seeking research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
