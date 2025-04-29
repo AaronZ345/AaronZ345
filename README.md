@@ -7,7 +7,7 @@ I am now working on the Audio Research Team at Zhejiang University, under the su
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation.  
 I also worked as a visiting scholar at [University of Massachusetts Amherst](https://www.umass.edu/), collaborating with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Singing and Music Synthesis, and Spatial Audio Generation**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, and EMNLP.
+My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Singing, Music, Speech, and Spatial Audio Generation**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, and EMNLP.
 
 **I am actively seeking research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
@@ -27,9 +27,13 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 - ``AAAI 2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), Wenxiang Guo, **Yu Zhang**, Changhao Pan, et al.
 - ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://arxiv.org/abs/2405.09940), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
 
-#### 🎙 Speech Synthesis
+#### 🎵 Music Generation
 
-- ``Arxiv`` [Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://www.arxiv.org/abs/2502.18924), Ziyue Jiang, Yi Ren, Ruiqi Li, Shengpeng Ji, Zhenhui Ye, Chen Zhang, Bai Jionghao, Xiaoda Yang, Jialong Zuo, **Yu Zhang**, et al.
+- ``Arxiv``[Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+
+#### 💬 Speech Synthesis
+
+- ``Arxiv`` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://www.arxiv.org/abs/2502.18924), Ziyue Jiang, Yi Ren, Ruiqi Li, Shengpeng Ji, Zhenhui Ye, Chen Zhang, Bai Jionghao, Xiaoda Yang, Jialong Zuo, **Yu Zhang**, et al.
 
 ---
 
