@@ -19,7 +19,14 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 
 ### 💻 Research Papers
 
-#### 🎤 Singing Voice Synthesis
+#### 🔊 Spatial Audio
+
+
+#### 🎼 Music Generation
+
+- ``Arxiv`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+
+#### 🎙️ Singing Voice Synthesis
 
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
@@ -27,11 +34,7 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 - ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://arxiv.org/abs/2405.09940), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
 - ``AAAI 2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), Wenxiang Guo, **Yu Zhang**, Changhao Pan, et al.
 
-#### 🎵 Music Generation
-
-- ``Arxiv`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
-
-#### 💬 Speech Synthesis
+#### 🗨️ Speech Synthesis
 
 - ``Arxiv`` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://www.arxiv.org/abs/2502.18924), Ziyue Jiang, Yi Ren, Ruiqi Li, Shengpeng Ji, Zhenhui Ye, Chen Zhang, Bai Jionghao, Xiaoda Yang, Jialong Zuo, **Yu Zhang**, et al.
 
