@@ -38,6 +38,10 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 
 - ``Preprint`` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://www.arxiv.org/abs/2502.18924), Ziyue Jiang, Yi Ren, Ruiqi Li, Shengpeng Ji, Zhenhui Ye, Chen Zhang, Bai Jionghao, Xiaoda Yang, Jialong Zuo, **Yu Zhang**, et al.
 
+#### 🧊 3D Vision
+
+- ``IJCAI 2025`` [Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly](https://arxiv.org/abs/2505.00426), Ruiyuan Zhang, Qi Wang, Jiaxiang Liu, **Yu Zhang**, et al.
+
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&&count_private=true&show_icons=true&theme=transparent&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
