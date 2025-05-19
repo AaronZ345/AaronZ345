@@ -6,7 +6,7 @@ I work on the Audio Research Team at Zhejiang University, under the supervision 
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published first-author papers at top international AI conferences, including NeurIPS, AAAI, ACL, and EMNLP. Currently, I am working on **spatial audio generation with multimodal prompts**. 
+My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published first-author papers at top international AI conferences, including NeurIPS, ACL, AAAI, and EMNLP. Currently, I am working on **spatial audio generation with multimodal prompts**. 
 
 **I am actively seeking research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
 
@@ -29,7 +29,7 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 
 #### 🎙️ Singing Voice Synthesis
 
-- ``ACL 2025`` [CusSinger: Customizable Multilingual Singing Voice Synthesis](), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+- ``ACL 2025`` [TCSinger 2: Customizable Multilingual Singing Voice Synthesis](), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``EMNLP 2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977), **Yu Zhang**, Ziyue Jiang, Ruiqi Li, et al.
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
