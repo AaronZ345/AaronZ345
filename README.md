@@ -8,7 +8,7 @@ I have also served as a visiting scholar at [University of Rochester](https://ww
 
 My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published first-author papers at top international AI conferences, including NeurIPS, ACL, AAAI, and EMNLP. Currently, I am working on **spatial audio generation with multimodal prompts** and **streaming voice conversion**. 
 
-**I am actively seeking research collaborations. Please feel free to contact me via email at yuzhang34@zju.edu.cn.**
+**I am actively seeking research collaborations. Please feel free to contact me via email at aaron9834@icloud.com.**
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
