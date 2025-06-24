@@ -6,7 +6,7 @@ I work on the Audio Research Team at Zhejiang University, under the supervision 
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published first-author papers at top international AI conferences, including NeurIPS, ACL, AAAI, and EMNLP. Currently, I am working on **spatial audio generation with multimodal prompts** and **streaming voice conversion**. 
+My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published first-author papers at top international AI conferences, such as NeurIPS, ACL, AAAI, and EMNLP. Currently, I am working on **spatial audio generation with multimodal prompts** and **streaming voice conversion**. 
 
 **I am actively seeking research collaborations. Please feel free to contact me via email at aaron9834@icloud.com.**
 
