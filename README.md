@@ -34,12 +34,6 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan\*, et al.
-- ``AAAI 2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572), Wenxiang Guo, **Yu Zhang**, Changhao Pan, et al.
-- ``ACL 2024`` [Robust Singing Voice Transcription Serves Synthesis](https://arxiv.org/abs/2405.09940), Ruiqi Li, **Yu Zhang**, Yongqi Wang, et al.
-
-#### 💬 Speech Synthesis
-
-- ``Preprint`` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://www.arxiv.org/abs/2502.18924), Ziyue Jiang, Yi Ren, Ruiqi Li, Shengpeng Ji, Zhenhui Ye, Chen Zhang, Bai Jionghao, Xiaoda Yang, Jialong Zuo, **Yu Zhang**, et al.
 
 ---
 
