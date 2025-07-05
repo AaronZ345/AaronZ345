@@ -17,7 +17,7 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 - DBLP: https://dblp.org/pid/50/671-126.html
 
 ### 💻 First-Author Papers
-**denotes co-first-author*
+**denotes co-first authors*
 
 #### 🔊 Spatial Audio
 
