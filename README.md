@@ -21,7 +21,8 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 
 #### 🔊 Spatial Audio
 
-- ``Preprint`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+- ``ACMMM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+- ``ACMMM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](), Changhao Pan, Wenxiang Guo, **Yu Zhang\***, et al.
 
 #### 🎼 Music Generation
 
