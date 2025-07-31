@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Yu Zhang (张彧)**. Now, I am a Research Scientist at ByteDance. Currently, I am working on audio-driven video generation and text-to-speech research.
+I am **Yu Zhang (张彧)**. Now, I am a Research Scientist at ByteDance.
 
 I earned my PhD in [the College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/) (浙江大学计算机科学与技术学院), under the supervision of [Prof. Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou).
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
