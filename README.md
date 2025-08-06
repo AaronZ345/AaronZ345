@@ -26,7 +26,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 
 #### 🎼 Music Generation
 
-- ``Under Review`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+- ``Preprint`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 
 #### 🎙️ Singing Voice Synthesis
 
