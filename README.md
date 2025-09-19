@@ -6,7 +6,7 @@ I earned my PhD in [the College of Computer Science and Technology](http://www.e
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on Multi-Modal Generative AI, specifically in Spatial Audio, Music, Singing, and Speech. I have published first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
+My research interests primarily focus on Multi-Modal Generative AI, specifically in Spatial Audio, Music, Singing, and Speech. I have published 10+ first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
@@ -21,8 +21,8 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 
 - ``ACM-MM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``ACM-MM 2025`` A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference, Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
+- ``NeurIPS 2025`` MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations, Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
 - ``Preprint`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo\*, et al.
-- ``Under Review`` MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations, Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
 
 #### 🎼 Music Generation
 
