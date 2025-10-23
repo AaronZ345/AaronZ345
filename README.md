@@ -40,6 +40,5 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 #### 💬 Speech Synthesis
 - ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronZ345&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&show_icons=true&theme=transparent&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronZ345&theme=transparent&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
