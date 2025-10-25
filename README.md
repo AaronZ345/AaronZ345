@@ -20,9 +20,9 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 #### 🔊 Spatial Audio
 
 - ``ACM-MM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
-- ``ACM-MM 2025`` A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference, Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
+- ``AACL 2025`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo\*, et al.
+- ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
 - ``NeurIPS 2025`` [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396), Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
-- ``Preprint`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo\*, et al.
 
 #### 🎼 Music Generation
 
@@ -35,7 +35,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan\*, et al.
-- ``Under Review`` Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches, Changhao Pan\*, Dongyu Yao\*, **Yu Zhang\***, et al.
+- ``AACL 2025`` Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches, Changhao Pan\*, Dongyu Yao\*, **Yu Zhang\***, et al.
 
 #### 💬 Speech Synthesis
 - ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
