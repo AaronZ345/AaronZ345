@@ -6,7 +6,7 @@ I earned my PhD in [the College of Computer Science and Technology](http://www.e
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on Multi-Modal Generative AI, specifically in Spatial Audio, Music, Singing, and Speech. I have published 10+ first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
+My research interests primarily focus on Multi-Modal Generative AI, specifically in Spatial Audio, Music, Singing Voice, and Speech. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
@@ -24,11 +24,11 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
 - ``NeurIPS 2025`` [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396), Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
 
-#### 🎼 Music Generation
+#### 🎼 Music
 
 - ``EMNLP 2025`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 
-#### 🎙️ Singing Voice Synthesis
+#### 🎙️ Singing Voice
 
 - ``ACL 2025`` [TCSinger 2: Customizable Multilingual Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``EMNLP 2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977), **Yu Zhang**, Ziyue Jiang, Ruiqi Li, et al.
@@ -37,7 +37,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan\*, et al.
 - ``AACL 2025`` Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches, Changhao Pan\*, Dongyu Yao\*, **Yu Zhang\***, et al.
 
-#### 💬 Speech Synthesis
+#### 💬 Speech
 - ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronZ345&show_icons=true&theme=transparent&hide=contribs)
