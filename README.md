@@ -20,7 +20,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 #### 🦢 Swan Series
 
 - ``Report`` [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](), Ruiqi Li\*, **Yu Zhang\***, Changhao Pan\*, et al.
-- ``ICML 2026`` [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
+- ``ICML 2026`` [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
 
 #### 🔊 Spatial Audio
 
