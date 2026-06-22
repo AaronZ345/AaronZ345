@@ -6,7 +6,7 @@ I earned my PhD in [the College of Computer Science and Technology](http://www.e
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on Multi-Modal Generative AI, specifically in Spatial Audio, Music, Singing Voice, and Speech. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
+My research interests primarily focus on Multi-Modal Generative AI, specifically in Speech, Spatial Audio, Singing Voice, and Music. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
@@ -22,16 +22,15 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``Report`` [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](), Ruiqi Li\*, **Yu Zhang\***, Changhao Pan\*, et al.
 - ``ICML 2026`` [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
 
+#### 💬 Speech
+- ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
+
 #### 🔊 Spatial Audio
 
 - ``ACM-MM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``IJCNLP-AACL 2025`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo\*, et al.
 - ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
 - ``NeurIPS 2025`` [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396), Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
-
-#### 🎼 Music
-
-- ``EMNLP 2025`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 
 #### 🎙️ Singing Voice
 
@@ -41,5 +40,6 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan\*, et al.
 
-#### 💬 Speech
-- ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
+#### 🎼 Music
+
+- ``EMNLP 2025`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
