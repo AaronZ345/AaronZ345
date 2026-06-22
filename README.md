@@ -6,7 +6,7 @@ I earned my PhD in [the College of Computer Science and Technology](http://www.e
 Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院), with dual bachelor's degrees in Computer Science and Automation. 
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
-My research interests primarily focus on Multi-Modal Generative AI, specifically in Speech, Spatial Audio, Singing Voice, and Music. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ACL, and AAAI. 
+My research interests primarily focus on Multi-Modal Generative AI, specifically in Speech, Spatial Audio, Singing Voice, and Music. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ICML, and ACL. 
 
 ### 📎 Homepages
 - Personal Pages: https://aaronz345.github.io (updated recently🔥)
