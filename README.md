@@ -19,7 +19,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 
 #### 💬 Speech
 
-- ``Technique Report`` [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](), **Yu Zhang**, Ruiqi Li, Changhao Pan, et al.
+<!-- - ``Technique Report`` [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](), **Yu Zhang**, Ruiqi Li, Changhao Pan, et al. -->
 - ``Technique Report`` [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](https://arxiv.org/abs/2605.30993), Ruiqi Li\*, **Yu Zhang\***, Changhao Pan\*, et al.
 - ``ASRU 2025`` [Conan: A Chunkwise Online Network for Zero-Shot Adaptive Voice Conversion](https://arxiv.org/abs/2507.14534), **Yu Zhang**, Baotong Tian, Zhiyao Duan.
 
