@@ -29,6 +29,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``ICML 2026`` [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
 - ``IJCNLP-AACL 2025`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo, et al.
 - ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
+- ``EMNLP 2026`` [One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing](), Ke Lei\*, Chenyuhao Wen\*, **Yu Zhang\***, et al.
 - ``NeurIPS 2025`` [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396), Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
 
 #### 🎼 Singing Voice
