@@ -1,4 +1,21 @@
-## Hi there 👋
+<div align="center">
+
+# Hi there, I'm [Yu Zhang (张彧)](https://aaronz345.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Waving hand">
+
+**Research Scientist at [ByteDance](https://www.bytedance.com/en/)**
+
+Multi-Modal Generative AI · Speech · Spatial Audio · Singing Voice
+
+[![Email](https://img.shields.io/badge/-Email-3693F3?logo=icloud&logoColor=white)](mailto:aaron9834@icloud.com)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-000000?logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=kA9A6LsAAAAJ)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/yuzhang34)
+[![Zhihu](https://img.shields.io/badge/-知乎-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/aaron-89-49)
+[![DBLP](https://img.shields.io/badge/-DBLP-000000?logo=dblp&logoColor=004F9F)](https://dblp.org/pid/50/671-126.html)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4594-0281)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white)](https://github.com/AaronZ345)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AaronZ345)
+
+</div>
 
 I am **Yu Zhang (张彧)**. Now, I am a Research Scientist at [ByteDance](https://www.bytedance.com/en/). If you are seeking any form of academic cooperation, please feel free to email me at [aaron9834@icloud.com](mailto:aaron9834@icloud.com).
 
@@ -7,12 +24,6 @@ Previously, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/c
 I have also served as a visiting scholar at [University of Rochester](https://www.rochester.edu/) with [Prof. Zhiyao Duan](https://www.hajim.rochester.edu/ece/people/faculty/duan_zhiyao) and [University of Massachusetts Amherst](https://www.umass.edu/) with [Prof. Przemyslaw Grabowicz](https://www.cics.umass.edu/about/directory/przemyslaw-grabowicz).
 
 My research interests primarily focus on Multi-Modal Generative AI, specifically in Speech, Spatial Audio, and Singing Voice. I have published **10+** first-author papers at top international AI conferences, such as NeurIPS, ICML, and ACL. 
-
-### 📎 Homepages
-- Personal Pages: https://aaronz345.github.io (updated recently🔥)
-- Linkedin: www.linkedin.com/in/yuzhang34
-- Google Scholar: https://scholar.google.com/citations?user=kA9A6LsAAAAJ
-- DBLP: https://dblp.org/pid/50/671-126.html
 
 ### 📝 First-Author Publications
 **denotes co-first authors*
@@ -40,3 +51,9 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``EMNLP 2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977), **Yu Zhang**, Ziyue Jiang, Ruiqi Li, et al.
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan, et al.
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Yu Zhang's GitHub statistics">
+</p>
