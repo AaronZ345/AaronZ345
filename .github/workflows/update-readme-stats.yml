@@ -14,20 +14,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check stats token
+        env:
+          README_STATS_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+        run: |
+          if [ -z "$README_STATS_TOKEN" ]; then
+            /usr/bin/printf '%s\n' 'README_STATS_TOKEN is required to read account-wide repository statistics.'
+            exit 1
+          fi
+
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@abb8761d64babb580b336af88cccb2db39063440
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&show=reviews,prs_merged,prs_merged_percentage
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
           fail_on_error: true
+
+      - name: Validate stats card
+        run: |
+          /usr/bin/grep -q '<svg' profile/stats.svg
+          if /usr/bin/grep -Eq 'Something went wrong|Resource not accessible|data-testid="message"' profile/stats.svg; then
+            /usr/bin/printf '%s\n' 'Generated stats card contains an API error.'
+            exit 1
+          fi
 
       - name: Commit stats card
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          git diff --cached --quiet && exit 0
-          git commit -m "Update README stats"
-          git push
+          /usr/bin/git config user.name "github-actions[bot]"
+          /usr/bin/git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          /usr/bin/git add profile/stats.svg
+          /usr/bin/git diff --cached --quiet && exit 0
+          /usr/bin/git commit -m "Update README stats"
+          /usr/bin/git push
