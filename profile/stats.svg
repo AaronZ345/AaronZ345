@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yu Zhang&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 2589, Total Commits  : 1564, Total PRs: 232, Total PRs Merged: 105, Merged PRs Percentage: 45.26, Total PRs Reviewed: 0, Total Issues: 11, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 2591, Total Commits  : 1626, Total PRs: 232, Total PRs Merged: 105, Merged PRs Percentage: 45.26, Total PRs Reviewed: 0, Total Issues: 11, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 55.48782992983261;
+        stroke-dashoffset: 54.89069642027542;
       }
     }
   
