@@ -38,7 +38,7 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 
 - ``ACM-MM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``ICML 2026`` [SwanSphere: Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
-- ``Preprint`` [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://arxiv.org/abs/2610.34415), Kam Man Wu\*, **Yu Zhang\***, Pengjun Fang, et al. [Project](https://wjm-george.github.io/AMBIT/) · [Code](https://github.com/WJM-George/AMBIT)
+- ``Preprint`` **AMBIT** · [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://arxiv.org/abs/2610.34415), Kam Man Wu\*, **Yu Zhang\***, Pengjun Fang, et al. [Project](https://wjm-george.github.io/AMBIT/) · [Code](https://github.com/WJM-George/AMBIT)
 - ``IJCNLP-AACL 2025`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo, et al.
 - ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
 - ``EMNLP 2026`` [SwanWeave: One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing](https://arxiv.org/abs/2609.04975), Ke Lei\*, Chenyuhao Wen\*, **Yu Zhang\***, et al.
