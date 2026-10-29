@@ -37,17 +37,17 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 #### 🔊 Spatial Audio
 
 - ``ACM-MM 2025`` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
-- ``ICML 2026`` [Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
+- ``ICML 2026`` [SwanSphere: Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940), Ke Lei\*, **Yu Zhang\***, Changhao Pan, et al.
 - ``Preprint`` [Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion](https://arxiv.org/abs/2610.34415), Kam Man Wu\*, **Yu Zhang\***, Pengjun Fang, et al. [Project](https://wjm-george.github.io/AMBIT/) · [Code](https://github.com/WJM-George/AMBIT)
 - ``IJCNLP-AACL 2025`` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu\*, **Yu Zhang\***, Wenxiang Guo, et al.
 - ``ACM-MM 2025`` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), Changhao Pan\*, Wenxiang Guo\*, **Yu Zhang\***, et al.
-- ``EMNLP 2026`` [One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing](https://arxiv.org/abs/2609.04975), Ke Lei\*, Chenyuhao Wen\*, **Yu Zhang\***, et al.
+- ``EMNLP 2026`` [SwanWeave: One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing](https://arxiv.org/abs/2609.04975), Ke Lei\*, Chenyuhao Wen\*, **Yu Zhang\***, et al.
 - ``NeurIPS 2025`` [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://arxiv.org/abs/2510.10396), Wenxiang Guo\*, Changhao Pan\*, Zhiyuan Zhu\*, Xintong Hu\*, **Yu Zhang\***, et al.
 
 #### 🎼 Singing Voice
 
 - ``NeurIPS 2024 Spotlight`` [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832), **Yu Zhang**, Changhao Pan, Wenxinag Guo, et al.
-- ``EMNLP 2025`` [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
+- ``EMNLP 2025`` [VersBand: Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``ACL 2025`` [TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), **Yu Zhang**, Wenxiang Guo, Changhao Pan, et al.
 - ``EMNLP 2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977), **Yu Zhang**, Ziyue Jiang, Ruiqi Li, et al.
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
