@@ -53,6 +53,20 @@ My research interests primarily focus on Multi-Modal Generative AI, specifically
 - ``AAAI 2024`` [StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis](https://arxiv.org/abs/2312.10741), **Yu Zhang**, Rongjie Huang, Ruiqi Li, et al.
 - ``ACL 2025`` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/abs/2507.06670), Wenxiang Guo\*, **Yu Zhang\***, Changhao Pan, et al.
 
+### Projects
+
+- [GTSinger](https://github.com/AaronZ345/GTSinger) · Top contributor
+- [StyleSinger](https://github.com/AaronZ345/StyleSinger) · Top contributor
+- [TCSinger](https://github.com/AaronZ345/TCSinger) · Top contributor
+- [TCSinger 2](https://github.com/AaronZ345/TCSinger2) · Top contributor
+- [VersBand](https://github.com/AaronZ345/VersBand) · Top contributor
+- [ISDrama](https://github.com/AaronZ345/ISDrama) · Top contributor
+- [Athena Personal Academic Page](https://github.com/AaronZ345/Athena-personal-academic-page) · Top contributor
+- [Codebase Argus](https://github.com/AaronZ345/codebase-argus) · Top contributor
+- [steam-cli](https://github.com/AaronZ345/steam-cli) · Top contributor
+- [douban-cli](https://github.com/AaronZ345/douban-cli) · Contributor
+- [xiaoheihe-cli](https://github.com/AaronZ345/xiaoheihe-cli) · Contributor
+
 ### 📊 GitHub Activity
 
 <p align="center">
