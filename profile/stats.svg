@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yu Zhang&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 2675, Total Commits  : 1934, Total PRs: 323, Total PRs Merged: 192, Merged PRs Percentage: 59.44, Total PRs Reviewed: 0, Total Issues: 11, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 2675, Total Commits  : 1935, Total PRs: 325, Total PRs Merged: 194, Merged PRs Percentage: 59.69, Total PRs Reviewed: 0, Total Issues: 11, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.420086612715146;
+        stroke-dashoffset: 50.392974215775624;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >323</text>
+      >325</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >192</text>
+      >194</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >59.44 %</text>
+      >59.69 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
