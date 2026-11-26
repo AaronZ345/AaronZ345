@@ -6,6 +6,8 @@
 
 Multi-Modal Generative AI · Speech · Spatial Audio · Singing Voice
 
+**[Academic Homepage](https://aaronz345.github.io/)**
+
 [![Email](https://img.shields.io/badge/-Email-3693F3?logo=icloud&logoColor=white)](mailto:aaron9834@icloud.com)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-000000?logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=kA9A6LsAAAAJ)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/yuzhang34)
